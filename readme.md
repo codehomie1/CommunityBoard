@@ -2,7 +2,7 @@
 
 Submitted by: Mohammed Mohamed
 
-This web app: Is a Donation Community Board with reputable dontation sites built in React.
+This web app: Is a Donation Community Board with reputable donation sites built in React.
 
 Time spent: **X** hours spent in total
 
