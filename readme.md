@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img href='\src\assets\communityboardproject.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='\assets\communityboardproject.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
