@@ -1,8 +1,8 @@
 
 body {
   font-family: Arial;
-  margin: 0;
-  background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;;
+  margin: 50px;
+  background: whitesmoke;
 }
 
 header {
@@ -10,9 +10,8 @@ header {
   padding: 20px;
   text-align: center;
   background: #1abc9c;
-  color: white;
+  color: black;
   font-size: 30px;
-  margin-bottom: 10%;
 }
 
 .container {
@@ -27,8 +26,8 @@ header {
 .Card img {
   height: 300px;
   width: 300px;
-  object-fit: cover;
-  background-color: black;
+  object-fit: fill;
+  padding: 10px;
 }
 
 .Card {
